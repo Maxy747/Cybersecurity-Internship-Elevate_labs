@@ -1,6 +1,6 @@
 # Task 2: Phishing Email Analysis  
 
-> This repository contains the report for **Cyber Security Internship – Task 2**, provided by *Elevate Labs* [^1][^2].  
+> This repository contains the report for **Cyber Security Internship – Task 2**, provided by *Elevate Labs*.  
 
 ---
 
@@ -8,7 +8,7 @@
 The task was to analyze a **sample phishing email** and identify its malicious characteristics.  
 The goal was to:  
 - Practice **email threat analysis** skills  
-- Understand **common phishing tactics** [^17]  
+- Understand **common phishing tactics** 
 
 ---
 
@@ -28,13 +28,3 @@ The goal was to:
 - **Web Browser** (for research & link inspection via hover simulation)  
 
 ---
-
-[^1]: Elevate Labs Internship Materials  
-[^2]: Cyber Security Internship Documentation  
-[^4]: Phishing Email Sample – Netflix Impersonation  
-[^6]: `phishing_analysis_report.md` Report File  
-[^9]: Phishing Indicator Reference – Sender Spoofing  
-[^11]: Phishing Indicator Reference – Urgent Language  
-[^12]: Phishing Indicator Reference – Grammatical Errors  
-[^15]: Phishing Indicator Reference – Suspicious Links  
-[^17]: Phishing Tactics Overview
