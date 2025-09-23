@@ -76,3 +76,5 @@ This phishing email contains **multiple red flags**:
 - Generic greeting  
 
 ⚠️ Such emails are designed to **steal personal and financial information**. Users should **not click links**, **not provide credentials**, and report the email as **phishing**.  
+
+-Mazin
