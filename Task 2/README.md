@@ -19,7 +19,7 @@ The goal was to:
    - Use of **urgent language**  
    - **Grammatical errors**  
    - **Suspicious links**
-3. A detailed report, [`Report.md`](../Report.md), was compiled to summarize the findings.  
+3. A detailed report, [`Report.md`](./Report.md), was compiled to summarize the findings.  
 
 ---
 
@@ -28,5 +28,6 @@ The goal was to:
 - **Web Browser** (for research & link inspection via hover simulation)  
 
 ---
+
 
 
