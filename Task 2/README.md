@@ -19,7 +19,7 @@ The goal was to:
    - Use of **urgent language**  
    - **Grammatical errors**  
    - **Suspicious links**
-3. A detailed report, [`phishing_analysis_report.md`](./phishing_analysis_report.md), was compiled to summarize the findings.  
+3. A detailed report, [`report.md`](./report.md), was compiled to summarize the findings.  
 
 ---
 
