@@ -37,8 +37,8 @@
 
 [cite_start]The following screenshot shows the summary of the scan results from the OpenVAS dashboard. [cite: 17]
 
-*[Drag and drop your screenshot file here to embed it, or use the Markdown link after uploading]*
-![OpenVAS Scan Results](image_24ce0b.png)
+[SharedScreenshot6](https://github.com/user-attachments/assets/51f63a81-1659-43c5-9c61-b085d40c9656)
+
 
 ## 5. Conclusion
 
