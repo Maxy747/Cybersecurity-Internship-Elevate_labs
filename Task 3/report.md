@@ -2,7 +2,7 @@
 
 ## 1. Executive Summary
 
-[cite_start]This report outlines the results of a vulnerability assessment performed on a host PC, as required by the Elevate Labs Cybersecurity Internship program. [cite: 2] [cite_start]The objective was to use a vulnerability scanner to identify common security risks on a personal computer. [cite: 6] The scan was conducted using OpenVAS (Greenbone Security Manager) and successfully identified 82 total results, including two notable medium-severity vulnerabilities that require attention.
+This report outlines the results of a vulnerability assessment performed on a host PC, as required by the Elevate Labs Cybersecurity Internship program. The objective was to use a vulnerability scanner to identify common security risks on a personal computer. The scan was conducted using OpenVAS (Greenbone Security Manager) and successfully identified 82 total results, including two notable medium-severity vulnerabilities that require attention.
 
 ## 2. Scan Details
 
@@ -13,7 +13,7 @@
 
 ## 3. Medium-Severity Vulnerability Findings
 
-[cite_start]The following medium-severity vulnerabilities were identified as the most critical findings from the assessment. [cite: 16]
+The following medium-severity vulnerabilities were identified as the most critical findings from the assessment.
 
 ### Vulnerability: SSL/TLS: Deprecated TLSv1.0 and TLSv1.1 Protocol Detection
 
@@ -35,7 +35,7 @@
 
 ## 4. Scan Results Screenshot
 
-[cite_start]The following screenshot shows the summary of the scan results from the OpenVAS dashboard. [cite: 17]
+The following screenshot shows the summary of the scan results from the OpenVAS dashboard.
 
 [SharedScreenshot6](https://github.com/user-attachments/assets/51f63a81-1659-43c5-9c61-b085d40c9656)
 
