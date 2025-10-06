@@ -39,8 +39,14 @@ I followed the provided guide to complete the task:
 ---
 
 * Screenshots showing the Original IP, VPN connection status and the verified IP change.
+
+### Original IP
 ![Original IP](https://github.com/user-attachments/assets/3609280d-1fe2-481a-b7f8-955ded7c9fda)
+
+### VPN
 ![vpn](https://github.com/user-attachments/assets/60b26e9f-6fd0-4e34-92a1-973f9b4e1a0f)
+
+### New IP
 ![Changed IP](https://github.com/user-attachments/assets/7996bfd6-4c3f-46c5-854e-d3131b187543)
 
-* 
+---
