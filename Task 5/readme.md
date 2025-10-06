@@ -48,6 +48,12 @@ I successfully identified the following protocols in the captured traffic:
 
 ---
 
+![dns](https://github.com/user-attachments/assets/72a1fa8d-9a03-4268-ba38-d1229f21b0f1)
+![tcp](https://github.com/user-attachments/assets/e30d687e-c004-4d2f-abda-b761685daaaf)
+![udp](https://github.com/user-attachments/assets/9886b8f5-9dbe-4ed5-84aa-d3254561cac0)
+
+---
+
 ## Key Concepts Demonstrated
 
 This task provided hands-on experience with the following key concepts:
