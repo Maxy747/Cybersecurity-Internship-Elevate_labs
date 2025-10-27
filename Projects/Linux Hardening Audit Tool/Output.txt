@@ -1,0 +1,23 @@
+--- 🛡️  Starting Linux Security Audit ---
+
+--- [Check 1: /etc/shadow Permissions] ---
+Result: -rw-r----- 1 root shadow 1390 May 23  2023 /etc/shadow
+Status: ❌ FAIL
+Recommendation: Set permissions to '400' or '600' (sudo chmod 400 /etc/shadow)
+
+--- [Check 2: SSH Root Login] ---
+Result: 'PermitRootLogin' is not explicitly set to 'no'.
+Status: ❌ FAIL
+Recommendation: Add 'PermitRootLogin no' to /etc/ssh/sshd_config.
+
+--- [Check 3: Firewall Status] ---
+Status: ⚠️ SKIPPED (UFW not found or sudo error. Run script with 'sudo'.)
+
+--- [Check 4: Insecure Services (telnet)] ---
+Result: telnet service is not running.
+Status: ✅ PASS
+Recommendation: None.
+
+--- 🏁 Audit Complete ---
+Final Score: 1 / 4 checks passed.
+--- End of Report ---
