@@ -1,6 +1,6 @@
 # Project Report: Linux Hardening Audit Tool
 
-**Author:** `[Your Full Name]`
+**Author:** Mazin Abdul Azeez
 **Internship:** Cyber Security Internship
 **Company:** Elevate Labs
 
